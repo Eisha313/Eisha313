@@ -1,104 +1,97 @@
 <div align="center">
 
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1219,50:F97316,100:EA580C&height=220&section=header&text=Eisha%20Kamran&fontSize=50&fontColor=E8ECF1&fontAlignY=35&desc=Technical%20Project%20Manager%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=55&descColor=6B8299&animation=fadeIn" />
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-  <!-- Typing roles -->
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&multiline=false&width=600&height=30&lines=Managing+cross-timezone+delivery+for+US+clients;Building+AI+agents+%26+intelligent+systems;Shipping+full-stack+products+with+React+%26+Next.js;CS+graduate+%7C+COMSATS+University+Islamabad" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:2DD4BF&height=220&section=header&text=Eisha%20Kamran&fontSize=52&fontColor=E6EDF3&fontAlignY=32&desc=Technical%20Project%20Manager%20%C2%B7%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=15&descAlignY=53&descColor=A0AEC0&animation=fadeIn" width="100%" />
 
-  <br><br>
+<br>
 
-  <!-- Status badge -->
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Remote%20Roles-F97316?style=for-the-badge&labelColor=0A1219" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=14B8A6&center=true&vCenter=true&width=620&height=35&lines=shipping+products+at+the+intersection+of+AI+%26+UX;managing+cross-timezone+delivery+for+US+clients;building+AI+agents+%26+intelligent+systems;CS+grad+%E2%86%92+TPM+%E2%86%92+full-stack+builder" alt="Typing SVG" /></a>
 
-  <br><br>
+<br><br>
 
-  <!-- Social links -->
-  <a href="https://www.linkedin.com/in/eisha313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://eisha313.github.io/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:eishakamran313@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eisha313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://eisha313.github.io/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:eishakamran313@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-  <br><br>
+<br><br>
 
-  <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=Eisha313&style=flat-square&color=F97316&label=Profile+Views" />
+<img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Remote%20Roles-14B8A6?style=for-the-badge&labelColor=0D1117" alt="Open to Remote Roles"/>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Eisha313&style=for-the-badge&color=2DD4BF&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### About Me
+## `> whoami`
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha313&layout=donut-vertical&theme=dark&bg_color=0A1219&title_color=F97316&text_color=6B8299&hide_border=true&langs_count=6" />
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eisha313&layout=donut-vertical&bg_color=0D1117&title_color=14B8A6&text_color=7D8590&hide_border=true&langs_count=6" alt="Top Languages" />
 
-- **TPM** at [Axiom Consulting](https://www.linkedin.com/in/eisha313/) — leading AI & automation delivery for US clients, fully remote
-- Previously **Frontend & AI Engineer** at Quantum Edge — built React apps with integrated ML models
-- **BS Computer Science** from COMSATS University Islamabad (2021 — 2025)
-- Teaching Assistant for Software Engineering — mentored 150+ students
-- Started with **C++ and Java** in university, now deep in **TypeScript and Python**
-- Built everything from [object detection systems](https://github.com/Eisha313/sentinel-stream) to [multi-vendor marketplaces](https://github.com/Eisha313/marketplace-orchestrator)
-- Timezone: **PKT (GMT+5)**, flexible for US overlap
+```typescript
+const eisha = {
+    location:  "Pakistan  ·  GMT+5  ·  flexible for US overlap",
+    current:   "TPM @ Axiom Consulting — AI & automation for US clients",
+    previous:  "Frontend & AI Engineer @ Quantum Edge",
+    education: "BS CS · COMSATS University Islamabad '25",
+    mentored:  "150+ students as TA for Software Engineering",
+    building:  ["AI agents", "full-stack products", "automation pipelines"],
+    languages: ["TypeScript", "Python", "JavaScript", "C++", "Java"],
+    funFact:   "Started with C++ and Java, now TypeScript runs in my veins",
+    openTo:    "Remote roles worldwide",
+};
+```
 
 <br clear="right"/>
 
 ---
 
-### Tech Stack
+## `> tech_stack --list`
 
-**Languages:** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Frontend:** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix-161618?style=flat-square&logo=radixui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+**`Languages`**
 
-**Backend:** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" alt="Languages" />
 
-**AI / ML:** &nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br><br>
 
-**Tools:** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**`Frontend`**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend" />
+
+<br><br>
+
+**`Backend & Database`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" alt="Backend" />
+
+<br><br>
+
+**`AI / ML`**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI/ML" />
+
+<br><br>
+
+**`DevOps & Tools`**
+
+<img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" alt="Tools" />
+
+<br><br>
+
+<sub>Also experienced with: Stripe · Socket.io · Zustand · shadcn/ui · Framer Motion · Radix UI · YOLO · Pandas · NumPy · Jira</sub>
+
+</div>
 
 ---
 
-### Featured Projects
+## `> ls projects/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/marketplace-orchestrator">marketplace-orchestrator</a></h4>
-<p>Multi-vendor e-commerce platform with real-time inventory synchronization, dynamic pricing engine, and Stripe-powered checkout. WebSocket notifications for live order tracking.</p>
+<p>Multi-vendor e-commerce with real-time inventory sync, dynamic pricing engine & Stripe-powered checkout. WebSocket notifications for live order tracking.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -109,7 +102,7 @@
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/sentinel-stream">sentinel-stream</a></h4>
-<p>Distributed real-time object detection framework for multi-camera surveillance with threat assessment. Concurrent video stream processing with configurable detection zones.</p>
+<p>Distributed real-time object detection for multi-camera surveillance with threat assessment. Concurrent video stream processing with configurable detection zones.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -120,7 +113,7 @@
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/pricepulse">pricepulse</a></h4>
-<p>Price drop alert system with automated monitoring, historical price charts, and customizable notification rules. Stripe subscription management for premium tiers.</p>
+<p>Price drop alert system with automated monitoring, historical charts & customizable notification rules. Stripe subscription management for premium tiers.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -130,7 +123,7 @@
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/churn-risk-scorer">churn-risk-scorer</a></h4>
-<p>Customer churn prediction pipeline with feature engineering, multi-model comparison (Random Forest, XGBoost, LR), and interactive Plotly dashboards.</p>
+<p>Customer churn prediction pipeline with feature engineering, multi-model comparison (Random Forest, XGBoost, LR) & interactive Plotly dashboards.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -141,7 +134,7 @@
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/face-mood-detector">face-mood-detector</a></h4>
-<p>CNN-based real-time facial emotion recognition trained on FER-2013. Classifies 7 emotions from live webcam feed with data augmentation pipeline.</p>
+<p>CNN-based real-time facial emotion recognition on FER-2013. Classifies 7 emotions from live webcam with data augmentation pipeline.</p>
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -150,7 +143,7 @@
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/Eisha313/quick-checkout-tracker">quick-checkout-tracker</a></h4>
-<p>Abandoned shopping cart recovery system with payment integration, customer analytics dashboard, and automated follow-up workflows.</p>
+<p>Abandoned cart recovery system with payment integration, customer analytics dashboard & automated follow-up workflows.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -187,27 +180,28 @@
 
 ---
 
-### GitHub Stats
+## `> git stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eisha313&show_icons=true&theme=dark&bg_color=0A1219&title_color=F97316&icon_color=F97316&text_color=6B8299&hide_border=true&include_all_commits=true&count_private=true&ring_color=F97316" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Eisha313&theme=dark&background=0A1219&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=6B8299&dates=4A6578&hide_border=true&currStreakNum=E8ECF1&sideNums=E8ECF1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eisha313&show_icons=true&bg_color=0D1117&title_color=14B8A6&icon_color=2DD4BF&text_color=7D8590&hide_border=true&include_all_commits=true&count_private=true&ring_color=14B8A6" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=Eisha313&background=0D1117&ring=14B8A6&fire=2DD4BF&currStreakLabel=14B8A6&sideLabels=7D8590&dates=4A5568&hide_border=true&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eisha313&bg_color=0A1219&color=6B8299&line=F97316&point=F97316&area_color=F97316&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eisha313&bg_color=0D1117&color=7D8590&line=14B8A6&point=2DD4BF&area_color=14B8A6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eisha313&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eisha313&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:F97316,100:0A1219&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:14B8A6&height=120&section=footer" width="100%" />
 </div>
