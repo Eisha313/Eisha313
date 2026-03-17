@@ -50,38 +50,68 @@ const eisha = {
 <table>
 <tr>
 <td valign="middle"><b><code>Languages</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" /></td>
+<td>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" /></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /></a>
+</td>
 </tr>
 <tr>
 <td valign="middle"><b><code>Frontend</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" /></td>
+<td>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /></a>
+<a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" /></a>
+<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" /></a>
+</td>
 </tr>
 <tr>
 <td valign="middle"><b><code>Backend</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" /></td>
+<td>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /></a>
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" /></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /></a>
+</td>
 </tr>
 <tr>
 <td valign="middle"><b><code>AI / ML</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" /></td>
+<td>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" /></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" /></a>
+</td>
 </tr>
 <tr>
 <td valign="middle"><b><code>DevOps & Tools</code></b></td>
-<td><img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" /></td>
+<td>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" /></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /></a>
+<a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>
+</td>
 </tr>
 </table>
 
 **`Also work with`**
 
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)](https://www.radix-ui.com/)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)](https://docs.ultralytics.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ---
 
