@@ -47,13 +47,30 @@ const eisha = {
 
 ## `> tech_stack --list`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,react,nextjs,tailwind,redux,vite,nodejs,express,prisma,mongodb,postgres,firebase,tensorflow,opencv,sklearn,git,docker,vercel,figma,notion,github&perline=5&theme=dark" alt="Tech Stack" />
-
-<br>
+<table>
+<tr>
+<td valign="middle"><b><code>Languages</code></b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b><code>Frontend</code></b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b><code>Backend</code></b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b><code>AI / ML</code></b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="middle"><b><code>DevOps & Tools</code></b></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" /></td>
+</tr>
+</table>
 
 <sub>Also work with: Stripe · Socket.io · Zustand · shadcn/ui · Framer Motion · Radix UI · YOLO · Pandas · NumPy · Jira</sub>
-</div>
 
 ---
 
