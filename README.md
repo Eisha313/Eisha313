@@ -47,41 +47,17 @@ const eisha = {
 
 ## `> tech_stack --list`
 
-<div align="center">
+**`Languages`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" alt="Languages" />
 
-**`Languages`**
+**`Frontend`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" alt="Languages" />
+**`Backend & Database`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" alt="Backend" />
 
-<br><br>
+**`AI / ML`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI/ML" />
 
-**`Frontend`**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend" />
-
-<br><br>
-
-**`Backend & Database`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" alt="Backend" />
-
-<br><br>
-
-**`AI / ML`**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI/ML" />
-
-<br><br>
-
-**`DevOps & Tools`**
-
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" alt="Tools" />
-
-<br><br>
+**`DevOps & Tools`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" alt="Tools" />
 
 <sub>Also experienced with: Stripe · Socket.io · Zustand · shadcn/ui · Framer Motion · Radix UI · YOLO · Pandas · NumPy · Jira</sub>
-
-</div>
 
 ---
 
