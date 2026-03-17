@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=14B8A6&center=true&vCenter=true&width=620&height=35&lines=shipping+products+at+the+intersection+of+AI+%26+UX;managing+cross-timezone+delivery+for+US+clients;building+AI+agents+%26+intelligent+systems;CS+grad+%E2%86%92+TPM+%E2%86%92+full-stack+builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&height=35&lines=shipping+products+at+the+intersection+of+AI+%26+UX;managing+cross-timezone+delivery+for+US+clients;building+AI+agents+%26+intelligent+systems;CS+grad+%E2%86%92+TPM+%E2%86%92+full-stack+builder" alt="Typing SVG" /></a>
 
 <br><br>
 
