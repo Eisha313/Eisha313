@@ -47,17 +47,13 @@ const eisha = {
 
 ## `> tech_stack --list`
 
-**`Languages`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" alt="Languages" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,react,nextjs,tailwind,redux,vite,nodejs,express,prisma,mongodb,postgres,firebase,tensorflow,opencv,sklearn,git,docker,vercel,figma,notion,github&perline=5&theme=dark" alt="Tech Stack" />
 
-**`Frontend`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark" alt="Frontend" />
+<br>
 
-**`Backend & Database`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" alt="Backend" />
-
-**`AI / ML`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI/ML" />
-
-**`DevOps & Tools`** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,docker,vercel,figma,notion,github&theme=dark" alt="Tools" />
-
-<sub>Also experienced with: Stripe · Socket.io · Zustand · shadcn/ui · Framer Motion · Radix UI · YOLO · Pandas · NumPy · Jira</sub>
+<sub>Also work with: Stripe · Socket.io · Zustand · shadcn/ui · Framer Motion · Radix UI · YOLO · Pandas · NumPy · Jira</sub>
+</div>
 
 ---
 
